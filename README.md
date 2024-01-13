@@ -7,4 +7,4 @@ Tools Used : SQL, MS Excel
 File Details:
 1. appleStore_description.csv - These files contain data on the details regarding each app pubished on the App Store.
 2. AppleStore.csv - This excel file contains data on certain stats on the Apple App Store.
-3. SQLlite.sql - This is an SQL fie containing all of the ncessary queries for analysis.
+3. SQLite.sql - This is an SQL fie containing all of the ncessary queries for analysis.
